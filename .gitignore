@@ -1,0 +1,12 @@
+__pycache__/
+# Virtual environment
+venv/
+# Django-specific files
+task_management/db.sqlite3/
+task_management/*.sqlite3/
+.vscode/
+.idea/
+*.iml
+task_management/tasks/migrations/*.pyc/
+task_management/tasks/migrations/*.py/
+task_management/tasks/migrations/__init__.py/
